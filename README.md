@@ -16,3 +16,6 @@ git init
 2) configure tsconfig.json (see commit)
 
 3) Add component directories and clock code (see commit)
+
+4) build with rollup.js
+npm i -D rollup rollup-plugin-delete rollup-plugin-typescript2
