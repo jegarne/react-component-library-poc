@@ -9,3 +9,4 @@ npm i -g typescript (if not already installed)
 tsc --init
 git init
 
+2) configure tsconfig.json (see commit)
