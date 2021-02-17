@@ -1,3 +1,7 @@
+A PoC that demonstrates building a reusable React component library
+
+(it's also a clock)
+
 Based on:
 https://medium.com/better-programming/build-your-very-own-react-component-library-and-publish-it-to-github-package-registry-192a688a51fd
 
@@ -10,3 +14,5 @@ tsc --init
 git init
 
 2) configure tsconfig.json (see commit)
+
+3) Add component directories and clock code (see commit)
